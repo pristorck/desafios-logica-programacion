@@ -8,9 +8,9 @@ Comprender estos conceptos no solo facilita el aprendizaje de nuevos lenguajes y
 alert('¡Bienvenido a nuestro sitio web!');
 ```
 
-2.Declara una variable llamada nombre y asígnale el valor "Lua".
+2.Declara una variable llamada nombre y asígnale el valor "Luna".
 ```javascript
-let nombre = "Lua";
+let nombre = "Luna";
 ```
 
 3.Crea una variable llamada edad y asígnale el valor 25.
@@ -30,12 +30,12 @@ let saldoDisponible = 1000;
 
 6.Muestra una alerta con el texto "¡Error! Completa todos los campos."
 ```javascript
-alert('¡Error! Preencha todos los campos');
+alert('¡Error! Completa todos los campos');
 ```
 
-7.Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Preencha todos los campos." Ahora muestra una alerta con el valor de la variable mensajeDeError.
+7.Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Completa todos los campos." Ahora muestra una alerta con el valor de la variable mensajeDeError.
 ```javascript
-let mensajeDeError = '¡Error! Preencha todos los campos';
+let mensajeDeError = '¡Error! Completa todos los campos';
 alert(mensajeDeError);
 ```
 
